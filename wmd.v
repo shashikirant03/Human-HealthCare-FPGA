@@ -1,7 +1,6 @@
-`timescale 1ns / 1ps
-
 // Create Date: 11/07/2024 11:13:59 AM
 
+`timescale 1ns / 1ps
 
 module wmd(age_category,ecgin,tempin,spo2in,sleepin,ecg,temp,spo2,sleep);
 
