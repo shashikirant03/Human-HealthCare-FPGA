@@ -2,7 +2,7 @@
 # Human Health Care Parameter Analysis System using FPGA
 
 # Project Overview
-This project presents a simulation-validated FPGA-based system for real-time health parameter analysis. It monitors key vitals — ECG, Temperature, SpO2, and Sleep — for multiple age groups: Infants, Children, Adults, and Pregnant Women. The system is designed using Verilog HDL and simulated using Xilinx ISE 12.4, targeting the Spartan-3 FPGA board.
+This project presents a simulation-validated, FPGA-based system for real-time health parameter analysis. It is designed to monitor critical vitals such as ECG, Body Temperature, SpO₂ (blood oxygen saturation), and Sleep Patterns across multiple age groups, including Infants, Children, Adults, and Pregnant Women. The system is developed using Verilog HDL and simulated using Xilinx ISE 12.4, targeting the Spartan-3 FPGA development board.
 
 > Note: This project has been functionally verified through simulation only. No physical implementation on FPGA hardware was performed.
 
